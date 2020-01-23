@@ -1,0 +1,3 @@
+C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\Definitions.Test20.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test20-9375.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\Test20Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\MyActorTest.cpp.obj"
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\Test20.cpp.obj"
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\MyActorTest.gen.cpp.obj"
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\Test20.init.gen.cpp.obj"
+"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\Default.rc2.res"
+/OUT:"C:\Users\tduvignau\Documents\M2\Testversioning2.0\Test20\Intermediate\Build\Win64\UE4Editor\Development\Test20\UE4Editor-Test20-9375.lib"
+/INCLUDE:IMPLEMENT_MODULE_Test20

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Test20.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F17961B8-42A1-48C8-863D-13B1A7F255CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test20.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Test20Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D5022170-B0AA-493C-A5E4-FE24983BA180}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Test20">
+      <UniqueIdentifier>{52FC4526-3AEF-44F6-A3F0-1EFD66686F5D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Test20\MyActorTest.cpp">
+      <Filter>Source\Test20</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20\MyActorTest.h">
+      <Filter>Source\Test20</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Test20\Test20.Build.cs">
+      <Filter>Source\Test20</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Test20\Test20.cpp">
+      <Filter>Source\Test20</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test20\Test20.h">
+      <Filter>Source\Test20</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
