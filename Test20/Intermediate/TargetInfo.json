@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Test20",
-			"Path": "C:\\Users\\tduvignau\\Documents\\M2\\Testversioning2.0\\Test20\\Source\\Test20.Target.cs",
+			"Path": "C:\\Users\\cogautier\\Documents\\DepotGit\\Testversioning2.0\\Test20\\Source\\Test20.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Test20Editor",
-			"Path": "C:\\Users\\tduvignau\\Documents\\M2\\Testversioning2.0\\Test20\\Source\\Test20Editor.Target.cs",
+			"Path": "C:\\Users\\cogautier\\Documents\\DepotGit\\Testversioning2.0\\Test20\\Source\\Test20Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
